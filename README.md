@@ -23,6 +23,5 @@ _Esse projeto é um sistema simples de Controle de Estacionamento utilizando Typ
 
 # Deployment / _Implantação_
 
-See it in action/ **Veja em ação**: [https://kelsonbatista.github.io/dio-typescript-parking-lot
-/](https://kelsonbatista.github.io/dio-typescript-parking-lot
+See it in action/ **Veja em ação**: [https://kelsonbatista.github.io/dio-typescript-parking-lot/](https://kelsonbatista.github.io/dio-typescript-parking-lot
 /)
