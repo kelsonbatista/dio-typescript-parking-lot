@@ -1,0 +1,21 @@
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.formtable {
+  margin-top: 20px;
+  width: 80%;
+}
+
+.formtable__logo {
+  display: block;
+  margin-bottom: 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.formtable__form {
+  display: flex;
+  width: 100%;
+}
